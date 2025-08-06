@@ -21,3 +21,7 @@
 - arabic_real_estate_message_intelligence_system.py                                   # Model(preprocessing & prediction)
 - xgb_model.pkl                                                                       # Trained ML Model
 - requirements.txt                                                                    # Python dependencies
+
+
+
+[LinkedIn](https://www.linkedin.com/in/rawan-gamal-41aa0024b/)
