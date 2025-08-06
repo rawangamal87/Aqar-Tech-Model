@@ -24,4 +24,4 @@
 
 
 
-[LinkedIn](https://www.linkedin.com/in/rawan-gamal-41aa0024b/)
+[LinkedIn](https://www.linkedin.com/in/rawan-gamal-41aa0024b/)    |  [Gmail](rewanngamal143@gmail.com)
