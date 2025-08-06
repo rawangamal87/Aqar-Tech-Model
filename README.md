@@ -14,4 +14,10 @@
 - **Training Data**: Arabic real estate messages (offers and requests)
 - **Output**: Class (`"Offer"` or `"Request"`)
 
-  
+
+  # Project Structure
+
+|__ main.py                                                                             # Fast api
+|__ arabic_real_estate_message_intelligence_system.py                                   # Model(preprocessing & prediction)
+|__ xgb_model.pkl                                                                       # Trained ML Model
+|__ requirements.txt                                                                    # Python dependencies
