@@ -48,3 +48,4 @@ def predict_label(data: MessageInput):
     pred = model.predict(vec)
     label = label_encoder.inverse_transform(pred)[0]
     return {"prediction": label}
+
