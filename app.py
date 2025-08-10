@@ -3,7 +3,6 @@ from pydantic import BaseModel
 import joblib
 import numpy as np
 
-# تحميل الموديلات والـ preprocessing tools
 model_label = joblib.load('model_label.pkl')
 model_area = joblib.load('model_area.pkl')
 model_city = joblib.load('model_city.pkl')
@@ -36,3 +35,4 @@ def predict(data: InputData):
         "predicted_area": pred_area,
         "predicted_city": pred_city
     }
+
